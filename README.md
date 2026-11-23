@@ -1,4 +1,4 @@
-## Hi, I'm Luciana ✨
+## Hi, I'm Luciana 
 
 - Computer Science student at UCF 
 
