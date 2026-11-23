@@ -1,16 +1,16 @@
 ## Hi, I'm Luciana ✨
 
-🎓 Computer Science student at UCF 
+- Computer Science student at UCF 
 
-💻 Passionate about software development, game development 🎮, and robotics 🤖
+- Passionate about software development, game development 🎮, and robotics 🤖
 
-👩‍🏫 Former programming instructor helping students learn coding, game development, and robotics
+- Former programming instructor helping students learn coding, game development, and robotics
 
-🌱 Currently learning and building with Java ☕, Python 🐍, C# ⚡, and Unity 🎯
+- Currently learning and building with Java ☕, Python 🐍, C# ⚡, and Unity 🎯
 
-🚀 Always looking for opportunities to learn, create, and make an impact through technology
+- Always looking for opportunities to learn, create, and make an impact through technology
 
-📸 Documenting my programming & CS journey on Instagram → [@empanalisa](https://instagram.com/empanalisa)
+- Documenting my programming & CS journey on Instagram → [@empanalisa](https://instagram.com/empanalisa)
 
 
 # 💻 Tech Stack:
